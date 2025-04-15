@@ -12,7 +12,7 @@ class ConverterPage extends StatefulWidget {
 }
 
 class _ConverterPageState extends State<ConverterPage> {
-  //variable that stores the converted currency value
+  
   double result = 0;
 
   //For TextField value
